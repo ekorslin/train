@@ -1,0 +1,17 @@
+.jumbotron {
+    width: 90%;
+    margin: auto;
+}
+
+.card {
+    width: 90%;
+    margin: auto;
+}
+
+th, td {
+    font-size: 12px;
+}
+
+#form {
+    font-size: 12px;
+}
